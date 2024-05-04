@@ -1,0 +1,4 @@
+name: Website
+version: '${project.version}'
+main: me.femrene.website.Website
+api-version: '1.20'
